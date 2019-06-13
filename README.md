@@ -1,4 +1,4 @@
-# Graduate Directed Project
+# Graduate Directed Project: Altar Guild Project
 
 <h1>Team Name: BetterHappo</h1>
  
