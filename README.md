@@ -26,5 +26,14 @@ To run this app we need internet.
 </p>
 <h2>Sources used for our Project:</h2>
 <p>
+ </p>
+<h2>Test Credentials:</h2>
+<p>
+<ul>
+ Username: sonam.gadekari@gmail.com
+ password: Sonam
+ </ul>
+</p>
+<h2>Layouts of our project:<h2>
 
 
