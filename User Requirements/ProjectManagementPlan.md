@@ -24,11 +24,11 @@ The end product that meets the customer requirements and with the required funct
 
 Name|Roles and Responsibilities|
 ---|---|
-Akshara Gurram | Analyze Requirements.Works on the prototype design.
-Zachary Haider | Analyze Requirements.Works on the prototype design.
-Lohitha Bethalam| Analyze Requirements.Works on the prototype design.
-Harish Vavilala|Analyze Requirements.Works on the prototype design. 
-Sonam Gadekari |Analyze Requirements.Works on the prototype design. Works on the Home page, Login page of the application. Designing, coding and modifying websites, from layout to function and according to a client's specifications.
+Akshara Gurram | Analyze Requirements.Works on the prototype design. Works on the Guild members contact information page.
+Zachary Haider | Analyze Requirements.Works on the prototype design. Works on the All Events page and Banner Information page in the website.
+Lohitha Bethalam| Analyze Requirements.Works on the prototype design. Coordinating with the team and client/project to achieve project goals.
+Harish Vavilala| Analyze Requirements.Works on the prototype design. Initiation, Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals.
+Sonam Gadekari | Analyze Requirements.Works on the prototype design. Works on the Home page, Login page of the application.
 
 
 ### Managerial Process/Management Objectives and Priorities: 
@@ -41,5 +41,5 @@ Sonam Gadekari |Analyze Requirements.Works on the prototype design. Works on the
 ## Technical Process Plan:
 
 ### Tools and technologies:
-Project Libre, Gantt charts, HTML, CSS, Node, Javascript, Visual studio, Microsoft Office, JIRA, Agile
+Project Libre, Gantt charts, HTML, CSS, Bootstrap, Node, Javascript, Visual studio, Microsoft Office, JIRA, Agile
 
