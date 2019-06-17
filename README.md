@@ -50,7 +50,11 @@ List of Banners:
 
 Banner Information page:
 
-![image](https://user-images.githubusercontent.com/43020059/59576468-86e95700-9085-11e9-83a4-6d6be79a546a.png)
+![image](https://user-images.githubusercontent.com/43020059/59577479-8b177380-9089-11e9-91a7-fc68a79325cc.png)
+
+Guild member responsibilities based on the upcoming event
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59577351-03ca0000-9089-11e9-87ca-8c25635ae615.png)
 
 Guild member Contact information page:
 ![image](https://user-images.githubusercontent.com/43020059/59576501-b1d3ab00-9085-11e9-97fb-bfe138a58b07.png)
@@ -77,9 +81,6 @@ Adding new guild member page:
  
  ![image](https://user-images.githubusercontent.com/43020059/59574691-db88d400-907d-11e9-88a1-03103864c6b9.png)
  
- Guild member responsibilities based on the upcoming event
- 
- ![image](https://user-images.githubusercontent.com/43020059/59577351-03ca0000-9089-11e9-87ca-8c25635ae615.png)
 
  Guild members details and work
  
