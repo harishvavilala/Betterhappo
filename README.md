@@ -30,7 +30,35 @@ To run this app we need internet.
  password: Sonam
  </ul>
 </p>
-<h2>Layouts of our project:(Mobile View)<h2>
+<h2>Layouts of our project:(Web View)</h2> (Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
+Login Page
+![image](https://user-images.githubusercontent.com/43020059/59576247-b51a6700-9084-11e9-82f5-af3872feadd3.png)
+
+Home Page
+![image](https://user-images.githubusercontent.com/43020059/59576285-d713e980-9084-11e9-8c1b-5056c2287c37.png)
+
+List of Events based on seasons:
+
+![image](https://user-images.githubusercontent.com/43020059/59576314-ec891380-9084-11e9-9be3-42f3703a49a4.png)
+
+Banner page based on event:
+![image](https://user-images.githubusercontent.com/43020059/59576346-0fb3c300-9085-11e9-9bfd-4565e18845d4.png)
+
+List of Banners:
+![image](https://user-images.githubusercontent.com/43020059/59576379-29550a80-9085-11e9-8f12-0d26d431d374.png)
+
+Banner Information page:
+
+![image](https://user-images.githubusercontent.com/43020059/59576468-86e95700-9085-11e9-83a4-6d6be79a546a.png)
+
+Guild member Contact information page:
+![image](https://user-images.githubusercontent.com/43020059/59576501-b1d3ab00-9085-11e9-97fb-bfe138a58b07.png)
+
+Adding new guild member page:
+![image](https://user-images.githubusercontent.com/43020059/59576534-cdd74c80-9085-11e9-9047-bd3f9b542526.png)
+
+
+<h2>Layouts of our project:(Mobile View)</h2>(Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
  Login Page
  
  ![image](https://user-images.githubusercontent.com/43020059/59574621-8c42a380-907d-11e9-817e-49fd9679de2f.png)
