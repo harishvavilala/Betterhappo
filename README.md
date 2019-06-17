@@ -31,5 +31,41 @@ To run this app we need internet.
  </ul>
 </p>
 <h2>Layouts of our project:<h2>
+ Login Page
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59574621-8c42a380-907d-11e9-817e-49fd9679de2f.png)
+ 
+ Banner Management Page
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59574642-aa100880-907d-11e9-81b0-2395948dde03.png)
+
+ Banners for an event
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59574664-c449e680-907d-11e9-8532-e756813b46b7.png)
+ 
+ History about a Banner
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59574691-db88d400-907d-11e9-88a1-03103864c6b9.png)
+ 
+ Guild members details and work
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59574731-fce9c000-907d-11e9-9b64-52bf6bccab60.png)
+ 
+ Guild members Contact details page
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59574767-20ad0600-907e-11e9-98b6-a90972df72f6.png)
+ 
+ Guild members admin password confirmation
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59574792-3fab9800-907e-11e9-86aa-3e679ae34c52.png)
+ 
+ Add guild members page
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59574820-5520c200-907e-11e9-8328-cd19e9ef11a8.png)
+ 
+ Logout page
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59574839-679afb80-907e-11e9-9088-029b5f1c1b13.png)
+ 
 <h2>Contribution Link:</h2>
 https://github.com/harishvavilala/Betterhappo/graphs/contributors
