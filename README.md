@@ -77,6 +77,10 @@ Adding new guild member page:
  
  ![image](https://user-images.githubusercontent.com/43020059/59574691-db88d400-907d-11e9-88a1-03103864c6b9.png)
  
+ Guild member responsibilities based on the upcoming event
+ 
+ ![image](https://user-images.githubusercontent.com/43020059/59577351-03ca0000-9089-11e9-87ca-8c25635ae615.png)
+
  Guild members details and work
  
  ![image](https://user-images.githubusercontent.com/43020059/59574731-fce9c000-907d-11e9-9b64-52bf6bccab60.png)
