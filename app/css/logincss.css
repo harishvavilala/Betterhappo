@@ -1,0 +1,107 @@
+html {
+    background: url('https://raw.githubusercontent.com/harishvavilala/Betterhappo/master/Screenshots/Picture1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.headline {
+    font-size: 40px;
+    font-family: tahoma;
+    color: white;
+    line-height: 60px;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+}
+
+body {
+    font-family: tahoma;
+    font-size: 13px;
+}
+
+.action {
+    color: #BABABA;
+    text-shadow: 1px 1px black;
+    font-size: 17px;
+}
+
+.privacy {
+    color: #BABABA;
+    text-shadow: 1px 1px black;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.privacy {
+    color: #BABABA;
+    text-shadow: 1px 1px black;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+#optin {
+    width: 465px;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 55px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -o-border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0.25);
+}
+
+.textbox {
+    border: none;
+    padding-left: 20px;
+    padding-right: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    border: 3px solid rgba(0, 0, 0, 0.85);
+    width: 395px;
+    font-size: 22px;
+    color: #333333;
+}
+
+.button {
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 7px;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -o-border-radius: 7px;
+    font-size: 22px;
+    color: white;
+    width: 425px;
+    background: #17AEFF;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
+    -moz-box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
+    -webkit-box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+.button:hover {
+    background: #33B8FF;
+    cursor: pointer;
+}
+
+a:link {color:#BABABA;}
+a:visited {color:#BABABA;}
+a:hover {color:#BABABA;}
+a:active {color:#BABABA;}
