@@ -31,6 +31,7 @@ To run this app we need internet.
  </ul>
 </p>
 <h2>Layouts of our project:(Web View)</h2> (Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
+
 Login Page
 ![image](https://user-images.githubusercontent.com/43020059/59576247-b51a6700-9084-11e9-82f5-af3872feadd3.png)
 
@@ -59,6 +60,7 @@ Adding new guild member page:
 
 
 <h2>Layouts of our project:(Mobile View)</h2>(Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
+
  Login Page
  
  ![image](https://user-images.githubusercontent.com/43020059/59574621-8c42a380-907d-11e9-817e-49fd9679de2f.png)
