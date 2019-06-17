@@ -11,7 +11,8 @@
 
 
 <h2> Introduction to our Project:</h2>
-<p></p><br/>
+<p>This is an interactive website to be developed for Hope Lutheran Church. Hope Lutheran Church is a located at 931 S. Main Street, Maryville, Missouri. Church is a congregation of 130 members and also supports the Lutheran Campus Center.This web application helps the Church in Banner Management and also in managing Guild members.</p><br/>
+
 
 <h2>Specifications/Support Version:</h2>
 
