@@ -24,11 +24,11 @@ The end product that meets the customer requirements and with the required funct
 
 Name|Roles and Responsibilities|
 ---|---|
-Akshara Gurram | Analyze Requirements.Works on the prototype design. Works on the Guild members contact information page.
-Zachary Haider | Analyze Requirements.Works on the prototype design. Works on the All Events page and Banner Information page in the website.
-Lohitha Bethalam| Analyze Requirements.Works on the prototype design. Coordinating with the team and client/project to achieve project goals.
-Harish Vavilala| Analyze Requirements.Works on the prototype design. Initiation, Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals.
-Sonam Gadekari | Analyze Requirements.Works on the prototype design. Works on the Home page, Login page of the application.
+Akshara Gurram | Analyze requirements on Banner Management.Work on the prototype design for Banner management page(All Events). Works on the Guild members contact information page.
+Zachary Haider | Analyze requirements on user login and admin login page of application.Work on the prototype design for Login functionality. Works on the All Events page and Banner Information page in the website.
+Lohitha Bethalam| Analyze Requirements on Guild members and their contact information.Works on the prototype design for Mobile view of the website. Coordinating with the team and client/project to achieve project goals.
+Harish Vavilala| Analyze Requirements on special preparations for each banner .Works on the prototype design for Banner display page. Initiation, Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals.
+Sonam Gadekari | Analyze Requirements on banners associated with each season and banner pairs and historical information with each banner.Works on the prototype design for historical information page of a banner and Home page of the application. Coordinating with team members.
 
 
 ### Managerial Process/Management Objectives and Priorities: 
