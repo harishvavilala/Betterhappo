@@ -30,7 +30,7 @@ To run this app we need internet.
  password: Sonam
  </ul>
 </p>
-<h2>Layouts of our project:<h2>
+<h2>Layouts of our project:(Mobile View)<h2>
  Login Page
  
  ![image](https://user-images.githubusercontent.com/43020059/59574621-8c42a380-907d-11e9-817e-49fd9679de2f.png)
