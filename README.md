@@ -9,14 +9,8 @@
  <li>4. Sonam Gadekari</li>
  <li>5. Zachary Haider</li>
 
-
 <h2> Introduction to our Project:</h2>
 <p>This is an interactive website to be developed for Hope Lutheran Church. Hope Lutheran Church is a located at 931 S. Main Street, Maryville, Missouri. Church is a congregation of 130 members and also supports the Lutheran Campus Center.This web application helps the Church in Banner Management and also in managing Guild members.</p><br/>
-
-
-<h2>Specifications/Support Version:</h2>
-
-<p></p>
 
 <h2>Requirements:</h2>
 <p>
@@ -38,4 +32,4 @@ To run this app we need internet.
 </p>
 <h2>Layouts of our project:<h2>
 <h2>Contribution Link:</h2>
-https://github.com/
+https://github.com/harishvavilala/Betterhappo/graphs/contributors
