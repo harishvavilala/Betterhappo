@@ -18,6 +18,7 @@
 Minimum 1 GB RAM.
 Minimum 8 GB internal storage
 To run this app we need internet.
+
 </ul>
 </p>
 <h2>Sources used for our Project:</h2>
