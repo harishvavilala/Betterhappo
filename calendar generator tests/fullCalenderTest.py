@@ -129,14 +129,12 @@ This function will take an int and a year.
 It will output all the date that are sundays.
 (2019 -> [(1,6,2019),...(12/30/2019)] ) 
 """
-def allSundays(year): # - >[ [int,int,int,string,string] ]
+def allSundays(year): # - >[ (int,int,int) ]
     leap = not((year % 100) %4 == 0 or ((year % 1000) - (year % 100)) % 4 == 0) 
     calender = []
     for i in range(1-weekDay(1,1,year),366+leap,7):
         if i>0:
-            month,day, year = numDayToMDY(i,year)
-            dayOfTheWeek = weekDay(date=(month,day,year))
-            calender.append((month,day,year))
+            calender.append(numDayToMDY(i,year))
     return calender
 
 
@@ -144,6 +142,49 @@ def allSundays(year): # - >[ [int,int,int,string,string] ]
 
 
 # Main_________________________________________________________________________
+
+"""
+This function will take the final calander array, and two boolean values csv and json
+It will append the correct format and colors to each date and write them to the right file type
+
+"""
+def writeToFile(cal, csv, json):
+    #The yearly color cycle starting with epiphany 
+    colors =["white","green","white","black","purple","red","white","black","white","red","white","green","red","white","green","white","blue","white"]
+    #The array to hold the csv formated object 
+    finalCalC = []
+    #The array to hold the json formated object 
+    finalCalJ = []
+    #The index for the colors array
+    colorIndex = 0
+    
+    for date in cal:
+        if date in allFixedDates and len(finalCalC):
+            if colorIndex == len(colors)-1:
+                colorIndex = 0
+            else:
+                colorIndex+=1
+        if csv:
+            finalCalC.append((date,colors[colorIndex]))
+        if json:
+            finalCalJ.append(("{date:","[Month:",date[0],"Day:",date[1],"Year:",date[2],"]color:",colors[colorIndex],"}"))
+
+    if csv:
+        with open("calendar.csv","w") as file:
+            file.write("month,day,year,color\n") 
+            for x in finalCalC:
+                 temp = str(x)
+                 temp = temp.replace("(","").replace(")","").replace("'","").replace(" ","") +"\n"
+                 file.write(temp)
+    if json:
+        with open("calendar.json","w") as file:
+            file.write("[")
+            for x in finalCalJ:
+                 temp = str(x)
+                 temp = temp.replace("(","").replace(")","").replace("'","").replace(" ","") +"\n"
+                 file.write(temp)
+            file.write("]")
+
 
 cal = []
 allFixedDates =[]
@@ -170,9 +211,7 @@ for year in range(2014,2021,1):
     xmas = (12,25,year)
     
     sundays = allSundays(year)
-    yearFixedDates = [epiphanyA,epiphanyB,epiphanyC,ashWed,lent,palm,hThursday,gFriday,easter,pentA,trinity,pentB,ref,saints,pentD,thanks,advent, xmas]
-    for x in yearFixedDates:
-        print(x)
+    yearFixedDates = [epiphanyB,epiphanyC,ashWed,lent,palm,hThursday,gFriday,easter,pentA,trinity,pentB,ref,saints,pentD,thanks,advent, xmas]
     allFixedDates+= yearFixedDates
     cal += sorted(set(yearFixedDates+sundays), key = lambda x: (x[0], x[1]))
 
@@ -181,47 +220,9 @@ for year in range(2014,2021,1):
 csv = True
 json = False
 
-if csv:
-    colors =["white","white","green","white","black","purple","red","white","black","white","red","white","green","red","white","green","white","blue","white"]
-   
-    finalCalC = []
-    colorIndex = 0
-    for date in cal:
-        if date in allFixedDates and len(finalCalC):
-            if colorIndex == len(colors)-1:
-                colorIndex = 0
-            else:
-                colorIndex+=1
-        finalCalC.append((date,colors[colorIndex]))
-    with open("cal.csv","w") as file:
-        file.write("month,day,year,color\n") 
-        for x in finalCalC:
-             temp = str(x)
-             temp = temp.replace("(","").replace(")","").replace("'","").replace(" ","") +"\n"
-             file.write(temp)
-if json: 
-    finalCalJ = []
-    colors =["white","white","green","white","black","purple","red","white","black","white","red","white","green","red","white","green","white","blue","white"]
-    colorIndex = 0
-    for date in cal:
-        if date in allFixedDates and len(finalCalJ):
-            if colorIndex == len(colors)-1:
-                colorIndex = 0
-            else:
-                colorIndex+=1
-        print(colorIndex)
-        finalCalJ.append(("{date:","[Month:",date[0],"Day:",date[1],"Year:",date[2],"]color:",colors[colorIndex],"}"))
-    with open("cal.json","w") as file:
-        file.write("[")
-        for x in finalCalJ:
-             temp = str(x)
-             temp = temp.replace("(","").replace(")","").replace("'","").replace(" ","") +"\n"
-             file.write(temp)
-        file.write("]")
 
 
-
-
+writeToFile(cal, csv, json)
     
 
 
