@@ -18,7 +18,8 @@
 Minimum 1 GB RAM.
 Minimum 8 GB internal storage
 To run this app we need internet.
-
+<h2> Work Breakdown structure</h2>
+ https://docs.google.com/spreadsheets/d/1jcsQk3SUVYAb3BFQq9T878p6hv7n38CV95ZBNgc-2zg/edit#gid=0 
 </ul>
 </p>
 <h2>Sources used for our Project:</h2>
