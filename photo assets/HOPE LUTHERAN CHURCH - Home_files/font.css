@@ -1,0 +1,7 @@
+
+@font-face {
+	font-family: 'Komika Axis';
+	src: url('regular.eot');
+	src: url('regular.eot?') format('embedded-opentype'),
+			url('regular.ttf') format('truetype');
+}
