@@ -28,8 +28,8 @@ To run this app we need internet.
 <h2>Test Credentials:</h2>
 <p>
 <ul>
- Username: sonam.gadekari@gmail.com
- password: Sonam
+Username: altarguild@gmail.com 
+Password: Altarguild@123456
  </ul>
 </p>
 <h2>Layouts of our project:(Web View)</h2> (Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
