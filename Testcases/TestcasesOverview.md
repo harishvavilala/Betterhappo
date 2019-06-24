@@ -12,6 +12,8 @@ Sr. No.|	Functional Test Cases|	Type- Negative/ Positive Test Case
 9|	Verify if the login page allows to log in simultaneously with different credentials in a different browser.|	Positive
 10|	Verify if the ‘Enter’ key of the keyboard is working correctly on the login page.|	Positive
 <h2>Other Test Cases</h2>
+Sr. No.|	Functional Test Cases|	Type- Negative/ Positive Test Case
+---|---|---|
 11|	Verify the time taken to log in with a valid username and password.|	Performance & Positive Testing
 12|	Verify if the font, text color, and color coding of the Login page is as per the standard.|	UI Testing & Positive Testing
 13|	Verify if there is a ‘Cancel’ button available to erase the entered text.|	Usability Testing
