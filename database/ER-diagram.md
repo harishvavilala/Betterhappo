@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/43020059/60036571-22c22680-9675-11e9-9dd3-c77622112420.png)
+![image](https://user-images.githubusercontent.com/43020059/60036666-59983c80-9675-11e9-907e-6c6be3890446.png)
 
 
 Link to Lucid Chart:
