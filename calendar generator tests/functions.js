@@ -1,8 +1,18 @@
-const fs = require('fs') 
-  
-// Data which will write in a file. 
+/*
+Created on Sat Jun 15 15:07:13 2019
+Full calendar test 1.0
+@author: s516936
+
+All dates are represented in MM-DD-YYYY 
+All funcitons needing dates in inputs or as outputs will use this order
+Dates are stored in arrays
+*/
 
 
+/*
+This function will take a year.
+It return 1 if it is a leap year and zero if it is not. 
+*/
 function leap(year){
    if ((year % 100) %4 == 0){
    		return 1}
@@ -13,6 +23,11 @@ function leap(year){
 //console.log(leap(2019));
 
 
+/*
+This function will take a date. 
+It will output the number of days from 1-366.
+(01/01/2019 -> 01 ;12/31/2019 -> 365) 
+*/
 function MDYToNumDay(date){ //-> int
     var month= date[0]
     var day = date[1]
@@ -26,6 +41,11 @@ function MDYToNumDay(date){ //-> int
 //console.log("mMDYToNumDay 1,2,2019: "+MDYToNumDay([1,2,2019]));
 
 
+/*
+This function will take a number of days from 1-365 and and a year.
+It will output the corasponding date.
+(01,2019 -> 01/01/2019 ; 365 -> 12/31/2019) 
+*/
 function numDayToMDY(dayNum,year){// -> month, Day, Year
    var monthDays =  [31,28+leap(year),31,30,31,30,31,31,30,31,30,31]
     for (var month = 0; month <12;month++){
@@ -38,7 +58,13 @@ function numDayToMDY(dayNum,year){// -> month, Day, Year
 //console.log("NumDayToMDY 111,2019: "+numDayToMDY(111,2019));
 
 
+/*
+This function will take an int and a date. 
+It will output the date that is however many days befor or after the date.
+(2 , 01/01/2019 -> 01/03/2019 ) 
+*/
 function relativeDate(numberOfDays, date){//-> date
+   console.log(date)
    let year = date[2]
    var monthDays =  [31,28+leap(date[2]),31,30,31,30,31,31,30,31,30,31]
    var dateDayNumber = MDYToNumDay(date)
@@ -56,6 +82,15 @@ function relativeDate(numberOfDays, date){//-> date
 //console.log(relativeDate(-46, [4,21,2019]))
 
 
+/*
+This function will take a date. 
+It will output the day of the week that date falls on as an int .
+(01/01/2019 -> 2)
+
+days = ("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+Code from: http://mathforum.org/dr.math/faq/faq.calendar.html 
+Modifide by Zac Haider
+*/
 function weekDay(date){// - >int
 	var month= date[0]
 	var day = date[1]
@@ -74,6 +109,12 @@ function weekDay(date){// - >int
 }
 //console.log("weekDay: "+weekDay([1,1,2019]));
 
+
+/*
+This funciton will take an input of a year.
+It will output the date of easter for the year entered.
+The code is from:http://code.activestate.com/recipes/576517-calculate-easter-western-given-a-year/
+*/
 function calcEaster(year){//->[int]
     var a = (year % 19)
     var b = parseInt(year / 100)
@@ -88,21 +129,33 @@ function calcEaster(year){//->[int]
 //console.log("calcEaster: "+calcEaster(2019));
 
 
+/*
+This function will take an int and a year. 
+It will output all the date that are sundays.
+(2019 -> [[1,6,2019],...[12/30/2019)] ] 
+*/
 function allSundays(year){// - >[ [int,int,int,string,string] ]
-   var calender = []
+   var calendar = []
     for( i = 1-weekDay([1,1,year]);i<(366+leap(year));i+=7){
         if (i>0){
-            calender.push(numDayToMDY(i,year))
+            calendar.push(numDayToMDY(i,year))
 		}
 	}
-	return calender
+	return calendar
 }
 //console.log("allSundays "+allSundays(2019))
 
-
+/*
+This function will take a year.
+It return the whole calendar for the luthren church. 
+*/
 function  allDays(year){
-	let easter = calcEaster(year)
-    let epiphanyA = relativeDate(7-(weekDay([1,6,year])),[1,6,year])
+    let easter = calcEaster(year)
+	console.log(7-(weekDay([1,6,year])))
+    var epiphanyA = [1,6,year]
+    if (weekDay([1,6,year])>0){
+    epiphanyA = relativeDate(7-(weekDay([1,6,year])),[1,6,year])
+	}
     let epiphanyB = relativeDate(14,epiphanyA)
     let ashWed = relativeDate(-46,easter)
     let epiphanyC = relativeDate(-3, ashWed)
@@ -122,7 +175,7 @@ function  allDays(year){
     let xmas = [12,25,year]
     
     let sundays = allSundays(year)
-    let yearFixedDates = [[epiphanyA,"white"],[epiphanyB,"green"],[epiphanyC,"white"],[ashWed,"black"],[lent,"purple"],[palm,"red"],[hThursday,"white"],[gFriday,"black"],[easter,"white"],[pentA,"red"],[trinity,"white"],[pentB,"green"],[ref,"red"],[saints,"white"],[pentD,"green"],[thanks,"white"],[advent,"blue"],[xmas,"white"]]
+    let yearFixedDates = [[epiphanyA,"white","Epiphany First Block"],[epiphanyB,"green","Epiphany Second Block"],[epiphanyC,"white","Epiphany Final Block"],[ashWed,"black","Ash Wednesday"],[lent,"purple","Lent"],[palm,"red","Palm Sunday"],[hThursday,"white","Holy Thursday"],[gFriday,"black","Good Friday"],[easter,"white","Easter"],[pentA,"red","Pentecost First Block"],[trinity,"white","Trinity"],[pentB,"green","Pentecost Second Block"],[ref,"red","Reformation"],[saints,"white","All Saints Day"],[pentD,"green","Pentecost Final Block"],[thanks,"white","Thanks Giving"],[advent,"blue","Advent"],[xmas,"white","Cristmas"]]
 	let monthDays =  [31,28+leap(year),31,30,31,30,31,31,30,31,30,31];
 	var calendar = [[[0,0,0],"white"]] 
 	for (var month =0;month <12;month++){
@@ -145,18 +198,4 @@ function  allDays(year){
 	return calendar
 }
 //console.log(allDays(2019))
-let year = 2019
-let temp = allDays(year)
-var data ="{"
-for (var x =0;x<temp.length-1;x++){
-	if (temp[x]){
-	data += '"'+temp[x][0][1]+'-'+temp[x][0][0]+'-'+temp[x][0][2]+'":"'+temp[x][1]+'"'
-}
-data+=""
-}  
-// Write data in 'Output.txt' . 
-fs.writeFile('Output.json', data, (err) => { 
-      
-    // In case of a error throw err. 
-    if (err) throw err; 
-}) 
+
