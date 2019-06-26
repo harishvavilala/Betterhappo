@@ -1,4 +1,4 @@
-Sr. No.	Test Scenarios
+Sr. No.	|Test Scenarios
 ---|---|
 1	|Enter the valid email address & click next. Verify if the user gets an option to enter the password.
 2	|Don’t enter an email address or phone number & just click the Next button. Verify if the user will get the correct message or if the blank field will get highlighted.
