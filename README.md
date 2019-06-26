@@ -106,3 +106,7 @@ Adding new guild member page:
  
 <h2>Contribution Link:</h2>
 https://github.com/harishvavilala/Betterhappo/graphs/contributors
+
+<h2>Google Docs Link</h2>
+
+https://docs.google.com/document/d/1v1jlTO_NKsk9bzf_dFnrKAUs2cYAq77USVUTeq7FUuQ/edit
