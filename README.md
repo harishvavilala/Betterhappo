@@ -55,6 +55,7 @@ Continued:
 ![5](https://user-images.githubusercontent.com/43020059/60448807-fc0f6d00-9beb-11e9-9580-c3871c55526f.JPG)
 
 Continued:
+
 ![6](https://user-images.githubusercontent.com/43020059/60448823-0467a800-9bec-11e9-8d69-3a7f14c25bba.JPG)
 
 Banner Information page:
@@ -65,16 +66,29 @@ All Seasons Page:
 
 ![8](https://user-images.githubusercontent.com/43020059/60448948-3d078180-9bec-11e9-8eab-b58b120ac6c9.JPG)
 
+All Seasons Page Continuity:
 
-Guild member responsibilities based on the upcoming event
- g
- ![image](https://user-images.githubusercontent.com/43020059/59577351-03ca0000-9089-11e9-87ca-8c25635ae615.png)
+Missing:
+
+Banner Details page:
+
+![9](https://user-images.githubusercontent.com/43020059/60449415-33cae480-9bed-11e9-9e09-2f9205d02187.JPG)
+
+Continued:
+
+![10](https://user-images.githubusercontent.com/43020059/60449456-4b09d200-9bed-11e9-8ced-42a902d689c6.JPG)
 
 Guild member Contact information page:
-![image](https://user-images.githubusercontent.com/43020059/59576501-b1d3ab00-9085-11e9-97fb-bfe138a58b07.png)
+
+![11](https://user-images.githubusercontent.com/43020059/60449514-72609f00-9bed-11e9-8821-14254a72c02d.JPG)
+
+Admin password page:
+
+![12](https://user-images.githubusercontent.com/43020059/60449542-8906f600-9bed-11e9-930a-051a32625256.JPG)
 
 Adding new guild member page:
-![image](https://user-images.githubusercontent.com/43020059/59576534-cdd74c80-9085-11e9-9047-bd3f9b542526.png)
+
+![13](https://user-images.githubusercontent.com/43020059/60449646-b8b5fe00-9bed-11e9-838a-fbb9c8f0868d.JPG)
 
 
 <h2>Layouts of our project:(Mobile View)</h2>(Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
