@@ -15,6 +15,7 @@ Sr. No.|	Functional Test Cases|	Type- Negative/ Positive Test Case
 11|	Verify if the font, text color, and color coding of the Login page is as per the standard.|	UI Testing & Positive Testing
 12|	Verify if there is a ‘Cancel’ button available to erase the entered text.|	Usability Testing
 13|	Verify the login page and all its controls in different browsers.|	Browser Compatibility & Positive Testing.
+14| Verify the user cannot sign up again when he already signed up.|Negative
 
 
 Non-functional Security Test Cases:
@@ -22,6 +23,6 @@ Sr. No.	|Security test cases|	Type- Negative/ Positive Test Case
 1	|Verify if a user cannot enter the characters more than the specified range in each field (Username and Password).	|Negative
 2	|Verify if a user cannot enter the characters more than the specified range in each field (Username and Password).|	Positive
 3	|Verify the login page by pressing ‘Back button’ of the browser. It should not allow you to enter into the system once you log out.|	Negative
-5	|Verify if a user should not be allowed to log in with different credentials from the same browser at the same time.|	Negative
-6	|Verify if a user should be able to login with the same credentials in different browsers at the same time.	|Positive
-7	|Verify the Login page against SQL injection attack.|	Negative
+4	|Verify if a user should not be allowed to log in with different credentials from the same browser at the same time.|	Negative
+5	|Verify if a user should be able to login with the same credentials in different browsers at the same time.	|Positive
+6	|Verify the Login page against SQL injection attack.|	Negative
