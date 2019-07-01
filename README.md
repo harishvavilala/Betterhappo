@@ -90,6 +90,9 @@ Adding new guild member page:
 
 ![13](https://user-images.githubusercontent.com/43020059/60449646-b8b5fe00-9bed-11e9-838a-fbb9c8f0868d.JPG)
 
+Assign guild member team:
+
+![14](https://user-images.githubusercontent.com/43020059/60449723-e00ccb00-9bed-11e9-854d-b48abd02c5d9.JPG)
 
 <h2>Layouts of our project:(Mobile View)</h2>(Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
 
