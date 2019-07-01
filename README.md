@@ -35,12 +35,15 @@ Password: Altarguild@123456
 <h2>Layouts of our project:(Web View)</h2> (Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
 
 Home Page
+
 ![1](https://user-images.githubusercontent.com/43020059/60448558-7c819e00-9beb-11e9-8f75-790cf5315c6f.JPG)
 
 Home Page after scrolling down
+
 ![2](https://user-images.githubusercontent.com/43020059/60448615-99b66c80-9beb-11e9-8050-bfd76dc09f5a.JPG)
 
 Login Page:
+
 ![3](https://user-images.githubusercontent.com/43020059/60448658-afc42d00-9beb-11e9-81d0-c536f1cac5b2.JPG)
 
 Banner page with list of events for all seasons
