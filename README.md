@@ -34,28 +34,37 @@ Password: Altarguild@123456
 </p>
 <h2>Layouts of our project:(Web View)</h2> (Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
 
-Login Page
-![image](https://user-images.githubusercontent.com/43020059/59576247-b51a6700-9084-11e9-82f5-af3872feadd3.png)
-
 Home Page
-![image](https://user-images.githubusercontent.com/43020059/59576285-d713e980-9084-11e9-8c1b-5056c2287c37.png)
+![1](https://user-images.githubusercontent.com/43020059/60448558-7c819e00-9beb-11e9-8f75-790cf5315c6f.JPG)
 
-List of Events based on seasons:
+Home Page after scrolling down
+![2](https://user-images.githubusercontent.com/43020059/60448615-99b66c80-9beb-11e9-8050-bfd76dc09f5a.JPG)
 
-![image](https://user-images.githubusercontent.com/43020059/59576314-ec891380-9084-11e9-9be3-42f3703a49a4.png)
+Login Page:
+![3](https://user-images.githubusercontent.com/43020059/60448658-afc42d00-9beb-11e9-81d0-c536f1cac5b2.JPG)
 
-Banner page based on event:
-![image](https://user-images.githubusercontent.com/43020059/59576346-0fb3c300-9085-11e9-9bfd-4565e18845d4.png)
+Banner page with list of events for all seasons
 
-List of Banners:
-![image](https://user-images.githubusercontent.com/43020059/59576379-29550a80-9085-11e9-8f12-0d26d431d374.png)
+![4](https://user-images.githubusercontent.com/43020059/60448769-ea2dca00-9beb-11e9-9663-de053222682b.JPG)
+
+Continued:
+
+![5](https://user-images.githubusercontent.com/43020059/60448807-fc0f6d00-9beb-11e9-9580-c3871c55526f.JPG)
+
+Continued:
+![6](https://user-images.githubusercontent.com/43020059/60448823-0467a800-9bec-11e9-8d69-3a7f14c25bba.JPG)
 
 Banner Information page:
 
-![image](https://user-images.githubusercontent.com/43020059/59577479-8b177380-9089-11e9-91a7-fc68a79325cc.png)
+![7](https://user-images.githubusercontent.com/43020059/60448888-1f3a1c80-9bec-11e9-886a-10a1b9ee345a.JPG)
+
+All Seasons Page:
+
+![8](https://user-images.githubusercontent.com/43020059/60448948-3d078180-9bec-11e9-8eab-b58b120ac6c9.JPG)
+
 
 Guild member responsibilities based on the upcoming event
- 
+ g
  ![image](https://user-images.githubusercontent.com/43020059/59577351-03ca0000-9089-11e9-87ca-8c25635ae615.png)
 
 Guild member Contact information page:
