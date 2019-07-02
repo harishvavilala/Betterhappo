@@ -22,6 +22,9 @@ To run this app we need internet.
 <h2> Work Breakdown structure</h2>
  https://docs.google.com/spreadsheets/d/1jcsQk3SUVYAb3BFQq9T878p6hv7n38CV95ZBNgc-2zg/edit#gid=0 
 </p>
+<h2> Link to google sites</h2>
+https://sites.google.com/s/1rD3WvZ0DhShHScMeXJgmxrSE56IPn_bt/p/1cE4U1RSSDuR4n6WVtsjrNqpOiQ3_laKT/edit
+
 <h2>Sources used for our Project:</h2>
 <p>
  </p>
