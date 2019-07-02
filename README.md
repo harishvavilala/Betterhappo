@@ -101,7 +101,7 @@ Assign guild member team:
 
  Login Page
  
- ![image](https://user-images.githubusercontent.com/43020059/59574621-8c42a380-907d-11e9-817e-49fd9679de2f.png)
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/home.PNG)
  
  Banner Management Page
  
