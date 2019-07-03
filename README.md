@@ -39,63 +39,85 @@ Password: Altarguild@123456
 
 Home Page
 
-![1](https://user-images.githubusercontent.com/43020059/60448558-7c819e00-9beb-11e9-8f75-790cf5315c6f.JPG)
+![1](https://user-images.githubusercontent.com/43020059/60601125-32c5be80-9d77-11e9-9230-f9cd61832fe3.JPG)
 
 Home Page after scrolling down
 
-![2](https://user-images.githubusercontent.com/43020059/60448615-99b66c80-9beb-11e9-8050-bfd76dc09f5a.JPG)
+![2](https://user-images.githubusercontent.com/43020059/60601149-3c4f2680-9d77-11e9-921a-8179b62376fa.JPG)
 
 Login Page:
 
-![3](https://user-images.githubusercontent.com/43020059/60448658-afc42d00-9beb-11e9-81d0-c536f1cac5b2.JPG)
+![3](https://user-images.githubusercontent.com/43020059/60601171-4709bb80-9d77-11e9-8a13-cec8379ff61b.JPG)
 
 Banner page with list of events for all seasons
 
-![4](https://user-images.githubusercontent.com/43020059/60448769-ea2dca00-9beb-11e9-9663-de053222682b.JPG)
+
+![4](https://user-images.githubusercontent.com/43020059/60601209-57ba3180-9d77-11e9-969b-4e5774a95cb2.JPG)
+
 
 Continued:
 
-![5](https://user-images.githubusercontent.com/43020059/60448807-fc0f6d00-9beb-11e9-9580-c3871c55526f.JPG)
+![5](https://user-images.githubusercontent.com/43020059/60601230-60ab0300-9d77-11e9-8533-aa97cef24e34.JPG)
+
 
 Continued:
 
-![6](https://user-images.githubusercontent.com/43020059/60448823-0467a800-9bec-11e9-8d69-3a7f14c25bba.JPG)
+![6](https://user-images.githubusercontent.com/43020059/60601250-6dc7f200-9d77-11e9-83c8-3f75d44a635d.JPG)
+
 
 Banner Information page:
 
-![7](https://user-images.githubusercontent.com/43020059/60448888-1f3a1c80-9bec-11e9-886a-10a1b9ee345a.JPG)
+![7](https://user-images.githubusercontent.com/43020059/60601277-79b3b400-9d77-11e9-9322-646bdcf97c8a.JPG)
 
 All Seasons Page:
 
-![8](https://user-images.githubusercontent.com/43020059/60448948-3d078180-9bec-11e9-8eab-b58b120ac6c9.JPG)
+![8](https://user-images.githubusercontent.com/43020059/60601306-86380c80-9d77-11e9-864d-07ca00b43c0e.JPG)
 
-All Seasons Page Continuity:
-
-Missing:
 
 Banner Details page:
 
-![9](https://user-images.githubusercontent.com/43020059/60449415-33cae480-9bed-11e9-9e09-2f9205d02187.JPG)
+![9](https://user-images.githubusercontent.com/43020059/60601324-905a0b00-9d77-11e9-9d74-c923aa68f973.JPG)
 
 Continued:
 
-![10](https://user-images.githubusercontent.com/43020059/60449456-4b09d200-9bed-11e9-8ced-42a902d689c6.JPG)
+![10](https://user-images.githubusercontent.com/43020059/60601372-a2d44480-9d77-11e9-84e3-ff75d725f5f6.JPG)
+
+![10-1](https://user-images.githubusercontent.com/43020059/60601401-ad8ed980-9d77-11e9-88f9-63e5e8083907.JPG)
+
+![10-2](https://user-images.githubusercontent.com/43020059/60601421-b67fab00-9d77-11e9-88dd-8c4ff1d04bcc.JPG)
+
+![10-3](https://user-images.githubusercontent.com/43020059/60601452-c13a4000-9d77-11e9-9b5e-c0cf3bccee50.JPG)
+
+![10-4](https://user-images.githubusercontent.com/43020059/60601467-c8f9e480-9d77-11e9-8bb4-9a1d1f3678df.JPG)
 
 Guild member Contact information page:
 
-![11](https://user-images.githubusercontent.com/43020059/60449514-72609f00-9bed-11e9-8821-14254a72c02d.JPG)
+![11](https://user-images.githubusercontent.com/43020059/60601498-d8792d80-9d77-11e9-9748-9d02decb7e81.JPG)
 
-Admin password page:
+Guild member delete:
+
+![12](https://user-images.githubusercontent.com/43020059/60601562-f21a7500-9d77-11e9-9159-ffa97ed10e67.JPG)
+
+Guild member add:
+
+![13](https://user-images.githubusercontent.com/43020059/60601590-fb0b4680-9d77-11e9-8ab4-1f4edf2504b3.JPG)
+
+continued
+
+![13-1](https://user-images.githubusercontent.com/43020059/60601626-0a8a8f80-9d78-11e9-9d76-7e90a66b8548.JPG)
+
+Admin page:
 
 ![12](https://user-images.githubusercontent.com/43020059/60449542-8906f600-9bed-11e9-930a-051a32625256.JPG)
 
-Adding new guild member page:
+Admin options:
 
-![13](https://user-images.githubusercontent.com/43020059/60449646-b8b5fe00-9bed-11e9-838a-fbb9c8f0868d.JPG)
+![13-2](https://user-images.githubusercontent.com/43020059/60601866-6e14bd00-9d78-11e9-9ab9-ead98c55bd46.JPG)
 
-Assign guild member team:
 
-![14](https://user-images.githubusercontent.com/43020059/60449723-e00ccb00-9bed-11e9-854d-b48abd02c5d9.JPG)
+Assign guild member team:(Rare circumstances)
+
+![14](https://user-images.githubusercontent.com/43020059/60601819-589f9300-9d78-11e9-935e-7454440da130.JPG)
 
 <h2>Layouts of our project:(Mobile View)</h2>(Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
 
