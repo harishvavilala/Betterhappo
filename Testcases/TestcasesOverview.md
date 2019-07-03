@@ -35,7 +35,23 @@ Sr. No.	|Non-functional Security test cases|	Type- Negative/ Positive Test Case
 Sr.No. | Functional Test cases |Type-Negative/Positive Test Case
 ---|---|---|
 1  |Verify if all of the  buttons like Seasons and responsibilities are clickable. |Positive
-2  |Verify that Navigations should work.  |Positive
+2  |Verify that Navigations are working.  |Positive
 3  |Verify that Scroll bar is working.  |Positive
+4  |verify that Navigation bar is working. |Positive
 
-<h2>Season Page</h2>
+<h2>Specific Season Page</h2>
+Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1  |verify that Banners scrollbar is working.|Positive
+2  |verify that all the banners are clickable.|Positive
+
+<h2>Specific Banner Page</h2>
+Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1  |Verify that 'Edit info' option is asking Admin Credentials to access it.|Positive
+2  |verify that 'Edit info' option should successfully login the admin.|Positive
+3  |Verify if a admin cannot login with a invalid username or password.|	Negative
+4|  verify that admin can able to edit all the banner informantion.|Positive
+5|verify that 'delete banner' button is asking for admin credentials.|positive
+6|verify that 'delete banner' button should automatically pop up the message to ensure activity.|positive
+7|Ensure that 'used the banner' button is clickable and it tracks the infomation properly.|positive
