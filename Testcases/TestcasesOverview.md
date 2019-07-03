@@ -39,7 +39,14 @@ Sr.No. | Functional Test cases |Type-Negative/Positive Test Case
 3  |Verify that Scroll bar is working.  |Positive
 4  |Verify that Navigation bar is working. |Positive
 
+<h2>Home Page</h2>
 
+
+Sr.No. | Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1|Verify that the scroll bar are working|Positive
+2|Verify that the churches are clickable and it navigates to their respective events page quickly.|Performance and Positive 
+3| Verify if the font, text color, and color coding of the Home page is as per the standard.|UI Testing & Positive Testing
 
 <h2>Specific Season Page</h2>
 
@@ -79,7 +86,7 @@ Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
 ---|---|---|
 1| Verify if the font, text color, and color coding of the Contact information page is as per the standard.|	UI Testing & Positive Testing
 2| Verify that 'delete contact' button is clickable and asks for admin credentials.|Positive testing
-3|Verify that 'done' and 'cancel' buttons in the admin credentails pop up dialog box are clickable and 'done' will delete the particular member and 'cancel' button will redirect back to the contact information page witlout deleting any contacts.| positive testing
+3|Verify that 'done' and 'cancel' buttons in the admin credentails pop up dialog box are clickable and 'done' will delete the particular member and 'cancel' button will redirect back to the contact information page witlout deleting any contacts.| Usability Testing and positive testing
 
 <h2>Add Contact Page</h2>
 
@@ -89,3 +96,45 @@ Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
 1| verify all the text boxes like name, Email id, Contact number, address are editable and respond  quickly.|  Performance & Positive Testing
 2|Verify if the 'done' button navigates  quickly to the contact information page with new contact updated.|Performance & Positive Testing
 3|verify if the 'cancel' button navigates quickly to the contact information without adding any contact.|Performance & Positive Testing 
+
+<h2>Admin Page</h2>
+
+
+Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1|Verify all the buttons are clickable.|Positive Testing
+2|Verify if the 'Add guild member' button is clicked then it should navigate to the add guild member page quickly.|Performance & Positive Testing 
+3|Verify if the 'Add Banner' button is clicked it navigates to the add banner page quickly.|Performance & Positive Testing 
+4|Verify if the 'Add church' button is clicked it navigates to the add church page quickly.|Performance & Positive Testing 
+5|Verify if the 'Delete church' button is clicked it navigates to the delete church page quickly.|Performance & Positive Testing 
+
+
+<h2>Assigned Guild Member page</h2>
+
+
+Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1|Verify if the list of the Guild members are selectable with a checkbox.|performance and positive 
+2|Verify if the font, text color, and color coding of the Assigned Guild Member page is as per the standard.|	UI Testing & Positive Testing
+3|Verify if the 'Select Month' is a drop down list and can select the required month| performance and positive
+4|Verify if the 'Select Season' is a drop down list and can select the required month| performance and positive
+5|Verify if the 'Create team' is clickable and assigns the  guildmembers to the selected season and month.|Positive testing
+
+
+<h2>Add banner page</h2>
+
+
+Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1|Verify that the choose file button, an window dialog box of local drive should pop up.|Performane and positive testing
+2|Verify that All the details of the banners are editable text boxes which can store banner info.|Positive testing
+3|Verify that 'done' and 'cancel' buttons are clickable.|Positive Testing
+4|Verify that when 'done' button is clicked, a new banner should be added.|Performance and positive testing
+5|Verify that when 'Cancel' button is clicked, it should navigate to the admin page without taking more time.|Usability and Positive testing
+
+<h2>Logout</h2>
+
+
+Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1|Verify that when logout button is clicked, it should navigate to the Home Page.|Performance and positive testing
