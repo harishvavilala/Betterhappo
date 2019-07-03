@@ -29,7 +29,7 @@ Sr. No.	|Non-functional Security test cases|	Type- Negative/ Positive Test Case
 5	|Verify if a user should be able to login with the same credentials in different browsers at the same time.	|Positive
 6	|Verify the Login page against SQL injection attack.|	Negative
 
-<h2>Home Page</h2>
+<h2>Events Page</h2>
 
 
 Sr.No. | Functional Test cases |Type-Negative/Positive Test Case
@@ -37,15 +37,17 @@ Sr.No. | Functional Test cases |Type-Negative/Positive Test Case
 1  |Verify if all of the  buttons like Seasons and responsibilities are clickable. |Positive
 2  |Verify that Navigations are working.  |Positive
 3  |Verify that Scroll bar is working.  |Positive
-4  |verify that Navigation bar is working. |Positive
+4  |Verify that Navigation bar is working. |Positive
+
+
 
 <h2>Specific Season Page</h2>
 
 
 Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
 ---|---|---|
-1  |verify that Banners scrollbar is working.|Positive
-2  |verify that all the banners are clickable.|Positive
+1  |Verify that Banners scrollbar is working.|Positive
+2  |Verify that all the banners are clickable.|Positive
 
 <h2>Specific Banner Page</h2>
 
@@ -53,15 +55,37 @@ Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
 Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
 ---|---|---|
 1  |Verify that 'Edit info' option is asking Admin Credentials to access it.|Positive
-2  |verify that 'Edit info' option should successfully login the admin.|Positive
+2  |Verify that 'Edit info' option should successfully login the admin.|Positive
 3  |Verify if a admin cannot login with a invalid username or password.|	Negative
-4|  verify that admin can able to edit all the banner informantion.|Positive
-5|verify that 'delete banner' button is asking for admin credentials.|positive
-6|verify that 'delete banner' button should automatically pop up the message to ensure activity.|positive
+4|  Verify that admin can able to edit all the banner informantion.|Positive
+5|Verify that 'delete banner' button is asking for admin credentials.|positive
+6|Verify that 'delete banner' button should automatically pop up the message to ensure activity.|positive
 7|Ensure that 'used the banner' button is clickable and it tracks the infomation properly.|positive
+8|Verify if the 'used the banner'  button is clicked it shows the last used date and time.|Positive
 
-<h2>Specific Banner Page</h2>
+<h2>All Seasons Page</h2>
 
 
 Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
 ---|---|---|
+1|Verify if the banners under each season are clickable and navigates into appropriate page fastly.|Performance & Positive Testing
+2|Verify if the scroll bars are working.|Browser Compatibility & Positive Testing.
+
+
+<h2>Contact Information Page</h2>
+
+
+Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1| Verify if the font, text color, and color coding of the Contact information page is as per the standard.|	UI Testing & Positive Testing
+2| Verify that 'delete contact' button is clickable and asks for admin credentials.|Positive testing
+3|Verify that 'done' and 'cancel' buttons in the admin credentails pop up dialog box are clickable and 'done' will delete the particular member and 'cancel' button will redirect back to the contact information page witlout deleting any contacts.| positive testing
+
+<h2>Add Contact Page</h2>
+
+
+Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1| verify all the text boxes like name, Email id, Contact number, address are editable and respond  quickly.|  Performance & Positive Testing
+2|Verify if the 'done' button navigates  quickly to the contact information page with new contact updated.|Performance & Positive Testing
+3|verify if the 'cancel' button navigates quickly to the contact information without adding any contact.|Performance & Positive Testing 
