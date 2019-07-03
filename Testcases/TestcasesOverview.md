@@ -59,3 +59,9 @@ Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
 5|verify that 'delete banner' button is asking for admin credentials.|positive
 6|verify that 'delete banner' button should automatically pop up the message to ensure activity.|positive
 7|Ensure that 'used the banner' button is clickable and it tracks the infomation properly.|positive
+
+<h2>Specific Banner Page</h2>
+
+
+Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
