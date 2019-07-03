@@ -40,12 +40,16 @@ Sr.No. | Functional Test cases |Type-Negative/Positive Test Case
 4  |verify that Navigation bar is working. |Positive
 
 <h2>Specific Season Page</h2>
+
+
 Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
 ---|---|---|
 1  |verify that Banners scrollbar is working.|Positive
 2  |verify that all the banners are clickable.|Positive
 
 <h2>Specific Banner Page</h2>
+
+
 Sr.No.  |Functional Test cases |Type-Negative/Positive Test Case
 ---|---|---|
 1  |Verify that 'Edit info' option is asking Admin Credentials to access it.|Positive
