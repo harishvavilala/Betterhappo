@@ -99,42 +99,99 @@ Assign guild member team:
 
 <h2>Layouts of our project:(Mobile View)</h2>(Members worked on the layouts: Harish Vavaila,Akshara Gurram,Sonam Gadekari,Zachary Haider,Lohitha Bethalam)
 
+ Home Page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/main%20page.PNG)
+ 
  Login Page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/Guild%20member%20login.PNG)
+ 
+ Home Page after logging in
  
  ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/home.PNG)
  
- Banner Management Page
+ Festival Page
  
- ![image](https://user-images.githubusercontent.com/43020059/59574642-aa100880-907d-11e9-81b0-2395948dde03.png)
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/festival%20screen.PNG)
+ 
+ Add new banner Page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/create%20and%20edit%20banner%20screen.PNG)
+ 
+Enter admin password to add new banner page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/add%20banner%20with%20admin%20passwd.PNG)
+  
+  Home Page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/main%20page.PNG)
+ 
+ Banner Information page
+ 
+  ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/banner%20info.PNG)
+ 
+Delete banner with admin password page
 
- Banners for an event
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/delete%20banner%20with%20admin%20passwd.PNG)
  
- ![image](https://user-images.githubusercontent.com/43020059/59574664-c449e680-907d-11e9-8532-e756813b46b7.png)
+ Track when the banner was previously used page
  
- History about a Banner
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/track%20the%20use%20of%20banner.PNG)
  
- ![image](https://user-images.githubusercontent.com/43020059/59574691-db88d400-907d-11e9-88a1-03103864c6b9.png)
+ Guild member information page
  
-
- Guild members details and work
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/contact%20guild%20member.PNG)
  
- ![image](https://user-images.githubusercontent.com/43020059/59574731-fce9c000-907d-11e9-9b64-52bf6bccab60.png)
+ Delete guild member with admin password
  
- Guild members Contact details page
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/delete%20guild%20member%20with%20password.PNG)
  
- ![image](https://user-images.githubusercontent.com/43020059/59574767-20ad0600-907e-11e9-98b6-a90972df72f6.png)
+ Deleted guild member page
  
- Guild members admin password confirmation
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/guild%20member%20deleted.PNG)
  
- ![image](https://user-images.githubusercontent.com/43020059/59574792-3fab9800-907e-11e9-86aa-3e679ae34c52.png)
+ add new guild member with admin password page
  
- Add guild members page
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/add%20guild%20member%20with%20admin%20passwd.PNG)
  
- ![image](https://user-images.githubusercontent.com/43020059/59574820-5520c200-907e-11e9-8328-cd19e9ef11a8.png)
+ Add new guild member page
  
- Logout page
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/add%20guild%20member.PNG)
  
- ![image](https://user-images.githubusercontent.com/43020059/59574839-679afb80-907e-11e9-9088-029b5f1c1b13.png)
+ Navigation page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/navigation%20screen.PNG)
+ 
+ all events page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/all%20events.PNG)
+ 
+ Admin functionalities page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/admin%20functions.PNG)
+ 
+ add new church page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/add%20new%20church%20screen.PNG)
+ 
+ add new church page with admin password
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/add%20church%20with%20admin%20passwd.PNG)
+ 
+ delete church page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/delete%20church.PNG)
+ 
+ delete church with admin password page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/delete%20church%20with%20admin%20passwd.PNG)
+ 
+ deleted church page
+ 
+ ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/church%20deleted.PNG)
+ 
+ 
  
 <h2>Contribution Link:</h2>
 https://github.com/harishvavilala/Betterhappo/graphs/contributors

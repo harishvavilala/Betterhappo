@@ -1,4 +1,4 @@
-
+<h2>Login Page:</h2>
 Sr. No.|	Functional Test Cases|	Type- Negative/ Positive Test Case
 ---|---|---|
 1|	Verify if a user will be able to login with a valid username and valid password.|	Positive
@@ -19,6 +19,7 @@ Sr. No.|	Functional Test Cases|	Type- Negative/ Positive Test Case
 
 Non-functional Security Test Cases:
 Sr. No.	|Security test cases|	Type- Negative/ Positive Test Case
+---|---|---|
 1	|Verify if a user cannot enter the characters more than the specified range in each field (Username and Password).	|Negative
 2	|Verify if a user cannot enter the characters more than the specified range in each field (Username and Password).|	Positive
 3	|Verify the login page by pressing ‘Back button’ of the browser. It should not allow you to enter into the system once you log out.|	Negative
