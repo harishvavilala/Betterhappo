@@ -1,3 +1,5 @@
+<h2>Login Page</h2>
+
 
 Sr. No.|	Functional Test Cases|	Type- Negative/ Positive Test Case
 ---|---|---|
@@ -26,3 +28,14 @@ Sr. No.	|Non-functional Security test cases|	Type- Negative/ Positive Test Case
 4	|Verify if a user should not be allowed to log in with different credentials from the same browser at the same time.|	Negative
 5	|Verify if a user should be able to login with the same credentials in different browsers at the same time.	|Positive
 6	|Verify the Login page against SQL injection attack.|	Negative
+
+<h2>Home Page</h2>
+
+
+Sr.No. | Functional Test cases |Type-Negative/Positive Test Case
+---|---|---|
+1  |Verify if all of the  buttons like Seasons and responsibilities are clickable. |Positive
+2  |Verify that Navigations should work.  |Positive
+3  |Verify that Scroll bar is working.  |Positive
+
+<h2>Season Page</h2>
