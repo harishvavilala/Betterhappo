@@ -18,7 +18,7 @@ The main scope and objective of Altar Guild Project is to efficiently manage the
 
 Name|Roles and Responsibilities|
 ---|---|
-Akshara Gurram | Analyze requirements on Banner Management.Work on the prototype design for Banner management page(All Events). Works on the guild members contact information page.
+Akshara Gurram | Analyze requirements on Banner Management.Work on the prototype design for Banner management page(All Events). Works on the guild members contact information page. Worked on creating the test cases for the website. 
 Zachary Haider | Analyze requirements on login page of application.Work on the prototype design for login functionality. Works on the all events page and banner information page in the website.
 Lohitha Bhethalam| Analyze requirements on guild members and their contact information.Works on the prototype design for mobile view of the website. Coordinating with the team and client/project to achieve project goals.
 Harish Vavilala| Analyze requirements on special preparations for each banner.Works on the prototype design for banner display page. Initiation, Planning, scheduling, coordinating, and working with team and the client/project sponsor to achieve project goals.
