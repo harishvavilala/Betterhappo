@@ -3,11 +3,11 @@
 <h1>Team Name: BetterHappo</h1>
  
 <h2>Team Members:</h2>
- <li>1. Akshara Gurram</li>
- <li>2. Harish Vavilala</li>
- <li>3. Lohitha Bethalam</li>
- <li>4. Sonam Gadekari</li>
- <li>5. Zachary Haider</li>
+ <li> Akshara Gurram</li>
+ <li> Harish Vavilala</li>
+ <li> Lohitha Bethalam</li>
+ <li> Sonam Gadekari</li>
+ <li> Zachary Haider</li>
 
 <h2> Introduction to our Project:</h2>
 <p>This is an interactive website to be developed for Hope Lutheran Church. Hope Lutheran Church is a located at 931 S. Main Street, Maryville, Missouri. Church is a congregation of 130 members and also supports the Lutheran Campus Center.This web application helps the Church in Banner Management and also in managing Guild members.</p><br/>
@@ -19,15 +19,20 @@ Minimum 1 GB RAM.
 Minimum 8 GB internal storage
 To run this app we need internet.
 </ul>
+
 <h2> Work Breakdown structure</h2>
  https://docs.google.com/spreadsheets/d/1jcsQk3SUVYAb3BFQq9T878p6hv7n38CV95ZBNgc-2zg/edit#gid=0 
 </p>
+
 <h2> Link to google sites</h2>
 https://sites.google.com/s/1rD3WvZ0DhShHScMeXJgmxrSE56IPn_bt/p/1cE4U1RSSDuR4n6WVtsjrNqpOiQ3_laKT/edit
 
+<h2>Google Docs Link</h2>
+
+https://docs.google.com/document/d/1v1jlTO_NKsk9bzf_dFnrKAUs2cYAq77USVUTeq7FUuQ/edit
+
 <h2>Sources used for our Project:</h2>
-<p>
- </p>
+<br/>
 <h2>Test Credentials:</h2>
 <p>
 <ul>
@@ -214,10 +219,18 @@ Delete banner with admin password page
  ![image](https://github.com/harishvavilala/Betterhappo/blob/master/Mobile%20Prototype%20screenshots/church%20deleted.PNG)
  
  
- 
 <h2>Contribution Link:</h2>
 https://github.com/harishvavilala/Betterhappo/graphs/contributors
 
-<h2>Google Docs Link</h2>
+<h2>Citations:</h2>
 
-https://docs.google.com/document/d/1v1jlTO_NKsk9bzf_dFnrKAUs2cYAq77USVUTeq7FUuQ/edit
+https://www.w3schools.com/
+https://www.freeart.com/artwork/art-print/jesus-christ-on-the-cross_fa12845549.html 
+https://www.sermoncentral.com/church-media-preaching-sermons/images-for-church-use/cross-sunset-2-2656-detail 
+https://www.maxpixel.net/Tourism-Church-Sunset-Temple-Sky-Culture-2253200 
+https://cdn.pixabay.com/photo/2017/12/06/09/43/advent-3001341_960_720.jpg
+https://images.unsplash.com
+https://allsaintsfrindsbury.org.uk/epiphany/
+https://ak7.picdn.net/shutterstock/videos/3755297/thumb/1.jpg
+https://gracesystem.org/
+https://www.empirecommunities.com/80-degrees-outside-its-still-christmas/
